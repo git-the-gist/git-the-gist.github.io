@@ -3900,9 +3900,7 @@ input, select, textarea {
 
 		.intro-title {
 			margin-left: 9.1%;
-			white-space: nowrap;
-        	overflow: hidden;
-        	text-overflow: clip;
+    		white-space: normal;
 		}
 
 			@media screen and (max-width: 980px) {
